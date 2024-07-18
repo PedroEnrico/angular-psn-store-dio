@@ -1,4 +1,4 @@
-# Store
+# Projeto recriar o Playstation Store com Angular | Desafio de projeto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
